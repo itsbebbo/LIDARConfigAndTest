@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:en.benewake.com)",
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:discuss.ardupilot.org)",
+      "Bash(pio run *)"
+    ]
+  }
+}
